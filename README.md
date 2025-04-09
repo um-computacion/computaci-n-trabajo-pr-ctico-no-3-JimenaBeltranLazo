@@ -2,7 +2,7 @@
 # Trabajo Práctico 3: Desarrollo Guiado por Pruebas (TDD) - Manejo de Excepciones
 
 ## Identificación del Alumno
-**Nombre y Apellido:** [Completar con tu nombre y apellido]
+**Nombre y Apellido:** Jimena Sofía Beltran Lazo
 
 **Nota:** Este trabajo práctico es de carácter individual. Cada alumno debe realizar su propia implementación y no se permite el trabajo en grupo.
 
@@ -17,17 +17,17 @@ El trabajo se realizará en dos fases, siguiendo las prácticas de TDD:
 
 ### Fase 1: Implementación de Pruebas
 En esta primera fase, deberás:
-1. Crear los archivos de prueba necesarios
-2. Implementar los casos de prueba para la validación de entrada de números
+1. Crear los archivos de prueba necesarios.
+2. Implementar los casos de prueba para la validación de entrada de números.
 3. Asegurarte de que las pruebas fallen inicialmente (rojo)
-4. Hacer commit y push de solo los archivos de prueba
+4. Hacer commit y push de solo los archivos de prueba.
 
 ### Fase 2: Implementación de la Solución
 En la segunda fase, deberás:
-1. Implementar las funciones y excepciones necesarias para pasar las pruebas
-2. Refactorizar el código si es necesario
+1. Implementar las funciones y excepciones necesarias para pasar las pruebas.
+2. Refactorizar el código si es necesario.
 3. Asegurarte de que todas las pruebas pasen (verde)
-4. Hacer commit y push de la implementación
+4. Hacer commit y push de la implementación.
 
 ## Requisitos
 - Python 3.x
@@ -95,8 +95,8 @@ if __name__ == '__main__':
 Para trabajar con este repositorio, es importante seguir estas pautas:
 
 1. **Protección de la rama main**
-   - La rama main estará protegida
-   - No se permiten pushes directos a main
+   - La rama main estará protegida.
+   - No se permiten pushes directos a main.
    - Todos los cambios deben realizarse a través de Pull Requests (PR)
 
 2. **Gestión de Issues**
