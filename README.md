@@ -17,17 +17,17 @@ El trabajo se realizará en dos fases, siguiendo las prácticas de TDD:
 
 ### Fase 1: Implementación de Pruebas
 En esta primera fase, deberás:
-1. Crear los archivos de prueba necesarios
-2. Implementar los casos de prueba para la validación de entrada de números
+1. Crear los archivos de prueba necesarios.
+2. Implementar los casos de prueba para la validación de entrada de números.
 3. Asegurarte de que las pruebas fallen inicialmente (rojo)
-4. Hacer commit y push de solo los archivos de prueba
+4. Hacer commit y push de solo los archivos de prueba.
 
 ### Fase 2: Implementación de la Solución
 En la segunda fase, deberás:
-1. Implementar las funciones y excepciones necesarias para pasar las pruebas
-2. Refactorizar el código si es necesario
+1. Implementar las funciones y excepciones necesarias para pasar las pruebas.
+2. Refactorizar el código si es necesario.
 3. Asegurarte de que todas las pruebas pasen (verde)
-4. Hacer commit y push de la implementación
+4. Hacer commit y push de la implementación.
 
 ## Requisitos
 - Python 3.x
@@ -95,8 +95,8 @@ if __name__ == '__main__':
 Para trabajar con este repositorio, es importante seguir estas pautas:
 
 1. **Protección de la rama main**
-   - La rama main estará protegida
-   - No se permiten pushes directos a main
+   - La rama main estará protegida.
+   - No se permiten pushes directos a main.
    - Todos los cambios deben realizarse a través de Pull Requests (PR)
 
 2. **Gestión de Issues**
@@ -140,10 +140,10 @@ Para trabajar con este repositorio, es importante seguir estas pautas:
      - Issue: "Implementar manejo de excepciones"
 
 5. **Commits y Pull Requests**
-   - Cada push debe ir acompañado de un PR
-   - Los PRs deben ser revisados y aprobados antes de mergear
-   - Los mensajes de commit deben ser descriptivos y claros
-   - Cada PR debe estar asociado a un issue específico
+   - Cada push debe ir acompañado de un PR.
+   - Los PRs deben ser revisados y aprobados antes de mergear.
+   - Los mensajes de commit deben ser descriptivos y claros.
+   - Cada PR debe estar asociado a un issue específico.
 
 6. **Estructura de commits**:
    - Fase 1: "Implementación de pruebas para validación de números"
@@ -168,10 +168,10 @@ Para ejecutar el programa y las pruebas, sigue estos pasos:
    ```
 
 3. **Uso del programa**:
-   - El programa aceptará entrada por consola
-   - Ingresa un número para validar
-   - El programa indicará si el número es válido o mostrará el error correspondiente
-   - Presiona Ctrl+C para salir del programa
+   - El programa aceptará entrada por consola.
+   - Ingresa un número para validar.
+   - El programa indicará si el número es válido o mostrará el error correspondiente.
+   - Presiona Ctrl+C para salir del programa.
 
 4. **Ejemplo de uso**:
    ```bash
@@ -180,8 +180,8 @@ Para ejecutar el programa y las pruebas, sigue estos pasos:
    Número válido: 100
    
    Ingrese un número: -100
-   Error: El número debe ser positivo
+   Error: El número debe ser positivo.
    
    Ingrese un número: ABC
-   Error: La entrada debe ser un número válido
+   Error: La entrada debe ser un número válido.
    ```

@@ -1,3 +1,5 @@
+#FASE 2: Implementación de la Solución "Manejo de Excepciones"
+
 class NumeroDebeSerPositivo(Exception):
     """Excepción lanzada cuando se ingresa un número negativo."""
     pass
